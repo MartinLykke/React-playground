@@ -13,7 +13,7 @@ const UseEffectCleanup = () => {
   });
   return (
     <>
-      <h1>window</h1>
+      <h1>Window</h1>
       <h2>{size}</h2>
     </>
   );
